@@ -421,3 +421,12 @@ a {
     height: 122px;
     background-color: #000;
 }
+/* ======================= map ======================= */
+.example-map {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.map-title {
+    text-align: center;
+}
